@@ -1,0 +1,16 @@
+Multimodal architectures:
+
+Multimodal learning refers to the process of learning representations from
+different types of input modalities, such as image data, text or speech. Due to
+methodological breakthroughs in the fields of Natural Language Processing
+(NLP) as well as Computer Vision (CV) in recent years, multimodal models
+have gained increasing attention as they are able to strengthen predictions
+and better emulate the way humans learn. This chapter focuses on discussing
+images and text as input data.
+........
+
+........
+........
+
+
+End.
